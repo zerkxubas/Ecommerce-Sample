@@ -1,1 +1,2 @@
-https://github.com/zerkxubas/Ecommerce-Sample/index.html
+View Demo
+https://zerkxubas.github.io/Ecommerce-Sample/
