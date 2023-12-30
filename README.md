@@ -1,5 +1,2 @@
-View Demo
-https://zerkxubas.github.io/Ecommerce-Sample/
-
-Azure Deployment Demo
+Deployment Demo
 https://nepalistore.azurewebsites.net/
